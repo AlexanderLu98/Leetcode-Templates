@@ -14,7 +14,7 @@ This repository contains templates for common algorithms and data structures use
 
 ### Sliding Window (Possibly redundant as they are more used as concepts in nature)
 - Fixed size
-- Variable size (both fixed and dynamic)
+- Variable size
 
 ## In Progress
 ### Two Pointers
