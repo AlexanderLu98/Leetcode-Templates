@@ -58,6 +58,3 @@ This repository contains templates for common algorithms and data structures use
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
-
-## License
-This project is licensed under the MIT License.
