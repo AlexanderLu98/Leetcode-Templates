@@ -17,15 +17,15 @@ This repository contains templates for common algorithms and data structures use
 - Variable size (both fixed and dynamic)
 
 ## In Progress
-### Two Pointers
-- From opposite direction
-- From same direction
 
 ### Trees
 - Binary Search Tree (BST)
-- Preorder traversal
-- Inorder traversal
-- Postorder traversal
+- [x] Preorder traversal
+- [x] Inorder traversal
+- [x] Postorder traversal
+- [x] Level-order traversal
+- [x] ZigZag-order traversal
+- [x] Reverse Level-order traversal
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
 
@@ -47,6 +47,9 @@ This repository contains templates for common algorithms and data structures use
   - Multi-dimensional DP
 - Divide and Conquer
 - Sorting algorithms
+- Two Pointers (Possibly redundant as they are more used as concepts in nature)
+    - From opposite direction
+    - From same direction
 
 ### Low Priority
 - Tries
