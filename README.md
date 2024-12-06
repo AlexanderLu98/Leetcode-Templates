@@ -14,7 +14,7 @@ This repository contains templates for common algorithms and data structures use
 
 ### Sliding Window (Possibly redundant as they are more used as concepts in nature)
 - Fixed size
-- Variable size (both fixed and dynamic)
+- Variable size
 
 ## In Progress
 
@@ -61,6 +61,3 @@ This repository contains templates for common algorithms and data structures use
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
-
-## License
-This project is licensed under the MIT License.
