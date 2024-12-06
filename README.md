@@ -16,30 +16,27 @@ This repository contains templates for common algorithms and data structures use
 - Fixed size
 - Variable size
 
-## In Progress
-
 ### Trees
 - Binary Search Tree (BST)
-- [x] Preorder traversal
-- [x] Inorder traversal
-- [x] Postorder traversal
-- [x] Level-order traversal
-- [x] ZigZag-order traversal
-- [x] Reverse Level-order traversal
+- Preorder traversal
+- Inorder traversal
+- Postorder traversal
+- Level-order traversal
+- ZigZag-order traversal
+- Reverse Level-order traversal
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
 
-## TODO
-### High Priority
-- Stack
-- Queue
-- Array and Hashing
+## In Progress
 - Binary Search
 
-### Medium Priority
+## TODO
+### High Priority
 - Backtracking
 - Graphs
 - Heap/Priority Queue
+
+### Medium Priority
 - Greedy Algorithms
 - Dynamic Programming (DP)
   - 1D DP
@@ -47,9 +44,13 @@ This repository contains templates for common algorithms and data structures use
   - Multi-dimensional DP
 - Divide and Conquer
 - Sorting algorithms
+- Hashing
 - Two Pointers (Possibly redundant as they are more used as concepts in nature)
     - From opposite direction
     - From same direction
+- Stack
+- Queue
+- Array
 
 ### Low Priority
 - Tries
